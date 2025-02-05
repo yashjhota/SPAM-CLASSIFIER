@@ -5,7 +5,7 @@ A simple machine learning-based Spam Classifier that identifies whether a messag
 ## 🚀 Features
 - Classifies messages as spam or not spam.
 - Uses Natural Language Processing (NLP) techniques.
-- Trained using machine learning model Naïve Bayes
+- Trained using machine learning model Naïve Bayes with 97% Acuracy
 - Supports text preprocessing such as tokenization, stopword removal, and vectorization.
 
 ## 🛠️ Installation
