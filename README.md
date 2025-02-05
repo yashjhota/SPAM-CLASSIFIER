@@ -1,4 +1,3 @@
-# SPAM-CLASSIFIER
 # 📧 Spam Classifier
 
 A simple machine learning-based Spam Classifier that identifies whether a message is **Spam** or **Ham (Not Spam)**.
